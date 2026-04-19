@@ -30,7 +30,7 @@ body {
 	line-height: 1.7;
 }
 main {
-	width: 960px;
+	width: 1100px;
 	max-width: calc(100% - 2em);
 	margin: auto;
 	padding: 3em 1em;
@@ -85,6 +85,15 @@ input {
 }
 table {
 	width: 100%;
+	font-size: 0.85em;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 0.5em 1em;
+	white-space: nowrap;
+}
+main {
+	overflow-x: auto;
 }
 img {
 	max-width: 100%;
