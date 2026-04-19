@@ -2,7 +2,7 @@
 title: '第64回気象予報士試験 一般知識 問1 解説'
 description: '国際標準大気・大気の鉛直構造に関する問題。温位・気温減率・オゾン・中間圏の理解を問う。'
 pubDate: '2026-04-19'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/meteo64-q01-hero.png'
 ---
 
 ## 問題のテーマ
